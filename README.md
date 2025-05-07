@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning python...
 - 😄 Pronouns: she/her ...
 - ⚡ Fun fact: i love pandas!! ^^...
-
-- ⸜(｡˃ ᵕ ˂ )⸝♡
+ʕっ•ᴥ•ʔっ ~♡
 
 <!---
 aninha-coding/aninha-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
